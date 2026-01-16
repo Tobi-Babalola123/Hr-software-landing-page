@@ -9,7 +9,7 @@ const inter = Inter({ subsets: ["latin"] })
 export const metadata: Metadata = {
   title: "Workable - The Future-Ready HR Platform",
   description: "Streamline recruiting and onboarding. Empower your teams with modern HR tools built for growth.",
-  generator: "v0.app",
+  generator: "Nextjs",
   icons: {
     icon: [
       {
