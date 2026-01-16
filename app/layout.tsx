@@ -10,22 +10,8 @@ export const metadata: Metadata = {
   title: "Workable - The Future-Ready HR Platform",
   description: "Streamline recruiting and onboarding. Empower your teams with modern HR tools built for growth.",
   generator: "Nextjs",
-  icons: {
-    icon: [
-      {
-        url: "/icon-light-32x32.png",
-        media: "(prefers-color-scheme: light)",
-      },
-      {
-        url: "/icon-dark-32x32.png",
-        media: "(prefers-color-scheme: dark)",
-      },
-      {
-        url: "/icon.svg",
-        type: "image/svg+xml",
-      },
-    ],
-    apple: "/apple-icon.png",
+   icons: {
+    icon: "/favicon.ico",
   },
 }
 
